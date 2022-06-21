@@ -1,4 +1,4 @@
-## IOT
+# IOT
 
-# Grant permissions
+## Grant permissions
 sudo usermod -a -G tty edisor
